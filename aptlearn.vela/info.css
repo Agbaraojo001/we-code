@@ -1,0 +1,74 @@
+.box{
+  background-color: green;
+  width: 400px;
+  height: 700px;
+  border-radius: 15px 15px 15px 15px;
+}
+
+.header{
+  background-color: blue;
+}
+.image{
+  background-color: rgb(255, 255, 255);
+  background-size: 200px 300px;
+  background-position: 0cap;
+  position: absolute;
+  display: inline-block;
+  left: 40%;
+  margin-top: 8%;
+  border-radius: 200px;
+  border-style: none;
+  width: 200px;
+  height: 300px;
+  border-color: solid;
+  border-color: none;
+  border-radius: 50%;
+  
+}
+.services{
+  margin-top: 250px;
+  bottom: 50%;
+  color: rgba(203, 219, 201, 0.788);  
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  background-color: red;
+  top: 100%;
+}
+.nn{
+  color: blue;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.contact{
+  display: inline-block;
+  position: absolute;
+  color: white;
+  background-color: blue;
+  width: 200px;
+  height: 50px;
+  border-radius: 150px;
+  
+}
+span{
+  display: block;
+}
+.number{
+  bottom: 2%;
+  margin-bottom: 5%;
+  display: inline-block;
+  color: black;
+  position: relative;
+  left: 20px;
+  
+}
+
+#right{
+  display: inline-block;
+  padding-right: 10px;
+  bottom: 25%;
+}
+#left{
+  display: inline-block;
+  margin-left: 200px;
+  margin-bottom: 200px;
+  top: -100px;
